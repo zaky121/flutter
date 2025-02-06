@@ -3,7 +3,7 @@ import { Schema, Types, model } from "mongoose";
 const taskSchema = new Schema(
   {
     title: {
-      type: String,
+      type: String ,
       required: true,
     },
     description: {

@@ -8,14 +8,7 @@ Initially, navigate to the .env file to set up the required environment variable
 
 Next, launch the development server:
 
-```bash
-npm start
-# or
-yarn start
-# or
-pnpm start
-# or
-bun start
+
 ```
 
 The server is running and ready to serve requests.
